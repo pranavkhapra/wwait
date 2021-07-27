@@ -1,0 +1,19 @@
+{
+  "name": "wwait",
+  "version": "1.0.0",
+  "description": "Just a  function to wait",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavkhapra/wwait.git"
+  },
+  "author": "pranavkhapra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranavkhapra/wwait/issues"
+  },
+  "homepage": "https://github.com/pranavkhapra/wwait#readme"
+}
